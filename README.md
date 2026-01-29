@@ -1,8 +1,8 @@
 ### Olá, eu sou o Matheus Barucho!
 <div>
   
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MaThArK1&show_icons=true&theme=dracula&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaThArK1&layout=compact&theme=dracula)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarucho&show_icons=true&theme=dracula&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarucho&layout=compact&theme=dracula)
 
 </div>
 
